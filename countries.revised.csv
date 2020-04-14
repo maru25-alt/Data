@@ -1,0 +1,25 @@
+﻿abbrv,latitude,longitude,contry,temperature,mintemp,maxtemp,wind,humidity
+AN,12.226079,-69.060087,Netherlands Antilles,26°C,26°C, 29°C,18 km/h,78%
+AU,-25.274398,133.775136,Australia,40°C,39°C,40°C,13km/h,79%
+BR,-14.235004,-51.92528,Brazil,75°C,73°C,75°C,17km/h,85%
+CA,56.130366,-106.346771,Canada,39°C,24°C,30°C,11km/h,14%
+CG,-0.228021,15.827659,Congo [Republic],82°C,79°C,88°C,20km/h,77%
+CN,35.86166,104.195397,China,47°C,35°C,47°C,18km/h,63%
+EG,26.820553,30.802498,Egypt,74°C,74°C,86°C,16km/h,90%
+GB,55.378051,-3.435973,United Kingdom,13°C,12°C,13°C,11km/h,22%
+HK,22.396428,114.109497,Hong Kong,73°C,65°C,73°C,19km/h,55%
+ID,-0.789275,113.921327,Indonesia,29°C,29°C,36°C,8km/h,77%
+IE,53.41291,-8.24389,Ireland,40°C,31°C,47°C,13km/h,69%
+IN,20.593684,78.96288,India,33°C,30°C,46°C,14km/h,67%
+IT,41.87194,12.56738,Italy,7°C,3°C,4°C,18km/h,61%
+KE,-0.023559,37.906193,Kenya,86°C,79°C,91°C,20km/h,76%
+MW,-13.254308,34.301525,Malawi,89°C,70°C,99°C,14km/h,63%
+MX,23.634501,-102.552784,Mexico,17°C,14°C,17°C,10km/h,44%
+MZ,-18.665695,35.529562,Mozambique,19°C,15°C,19°C,11km/h,85%
+NG,9.081999,8.675277,Nigeria,88°C,80°C,105°C,15km/h,73%
+NL,52.132633,5.291266,Netherlands,45°C,36°C,49°C,20km/h,65%
+NO,60.472024,8.468946,Norway,12°C,12°C,13°C,2km/h,100%
+TH,15.870032,100.992541,Thailand,94°C,71°C,97°C,17km/h,37%
+US,37.09024,-95.712891,United States,7°C,4°C,9°C,18km/h,60%
+ZA,-30.559482,22.937506,South Africa,66°C,48°C,71°C,16km/h,64%
+ZW,-19.015438,29.154857,Zimbabwe,30°C,23°C,26°C,5km/h,88%
